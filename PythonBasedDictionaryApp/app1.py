@@ -1,7 +1,7 @@
 # Software Developed by Shaksham Sinha
 # Date : 30th August 2019
 # Description : A basic console based Dictionary app
-
+import lib
 import json
 from difflib import get_close_matches
 
